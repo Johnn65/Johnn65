@@ -1,4 +1,12 @@
 ## Hi there 👋
+# Hello, I'm Johnny 👋
+Welcome to my profile! Here’s a bit about me:
+
+- 🌱 I’m currently learning JavaScript,Html and css.
+- 💼 I’m a software engineer.
+- 📫 How to reach me: (sojabwoy899@gmail.com)
+- ⚡ Fun fact: I love writing and speaking.
+
 
 <!--
 **Johnn65/Johnn65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
