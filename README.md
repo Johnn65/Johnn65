@@ -5,7 +5,7 @@ Welcome to my profile! Here’s a bit about me:
 - 🌱 I’m currently learning JavaScript,Html and css.
 - 💼 I’m a software engineer.
 - 📫 How to reach me: (sojabwoy899@gmail.com)
-- ⚡ Fun fact: I love writing and speaking.
+- ⚡ Fun fact: I love writing and listening to music.
 
 
 <!--
